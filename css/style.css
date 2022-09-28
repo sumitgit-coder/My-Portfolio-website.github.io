@@ -86,11 +86,11 @@
 
 
                             .main-content-header h2 {
-                                animation: type 4s infinite steps(18);
+                                animation: type 4s infinite steps(10);
                                 overflow: hidden;
                                 white-space: nowrap;
                                 border-right: 4px solid white;
-                                width: 18ch;
+                                width: 10ch;
                             }
 
 
@@ -101,7 +101,7 @@
                                     width: 0ch;
                                 }
                                 100% {
-                                    width: 18ch;
+                                    width: 10ch;
                                 }
                             }
 
